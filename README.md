@@ -1,0 +1,1 @@
+XMRig Stealth Installer
